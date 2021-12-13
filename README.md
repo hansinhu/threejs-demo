@@ -2,7 +2,7 @@
 
 <!-- ![demo]("https://github.com/hansinhu/threejs-demo/blob/main/src/static/img/login/login.gif") -->
 
-<img src="https://github.com/hansinhu/threejs-demo/blob/main/src/static/img/login/login.gif" />
+<img src="https://github.com/hansinhu/threejs-demo/blob/main/src/static/img/login/login.gif" style="width: 100%" />
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
