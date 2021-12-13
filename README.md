@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# threejs demo with react
+
+![demo]("https://github.com/hansinhu/threejs-demo/blob/main/src/static/img/login/login.gif")
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
